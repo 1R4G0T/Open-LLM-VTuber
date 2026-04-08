@@ -41,7 +41,7 @@ agent_config:
 
 llm_configs:
   gemini_llm:
-    llm_api_key: 'COLE_AQUI_SUA_API_KEY' # <--- NÃO ESQUEÇA DE COLAR SUA CHAVE AQUI
+    llm_api_key: 'AIzaSyCynL6glMH9OlHhlL6maCVJezRykAsJ-bU' # <--- NÃO ESQUEÇA DE COLAR SUA CHAVE AQUI
     model: 'gemini-2.0-flash'
     temperature: 0.7
 
